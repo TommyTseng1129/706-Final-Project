@@ -20,4 +20,7 @@ Step 3: Execute "Running_Model_Tommy"(需要改名)
 
 Step 4: Play around with the ipywidgets!!
 
-Flow Diagram （To be drawn）
+### Flow Diagram 
+
+![](Flow Chart Diagram.png)
+
