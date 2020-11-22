@@ -22,5 +22,5 @@ Step 4: Play around with the ipywidgets!!
 
 ### Flow Diagram 
 
-![](Flow Chart Diagram.png)
+![](Flow_Chart_Diagram.jpg)
 
