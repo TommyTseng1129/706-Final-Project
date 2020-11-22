@@ -12,7 +12,7 @@ To obtain the raw data for price prediction, beautfiul soup was used to scrap Be
 
 ### Setup instruction
 
-Step 1: Set up a notebook instance on AWS
+Step 1: Set up a notebook instance on AWS sagemaker
 
 Step 2: Go to jupyter lab and clone the repo (https://github.com/TommyTseng1129/706-Final-Project.git)
 
