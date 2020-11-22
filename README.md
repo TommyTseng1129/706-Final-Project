@@ -7,6 +7,7 @@ Welcome to the BeiJing housing price prediction project built by Charlie Xie and
 To obtain the raw data for price prediction, beautfiul soup was used to scrap BeiJing's housing transaction records from the web. Raw data were cleaned and manipulated using pandas, and were later split into testing and training set for machine learning purpose. Linear regression modeling method from XGB was applied to fit a model on the training data set. The trained model was later tuned using hyperparameter tuning in Sagemaker to maximize prediction performance. Finally, ipywidgets were used to visualize filtered housing price and to plot kernel density estimate.
 
 
+![](beijing.jpg)
 
 
 ### Setup instruction
