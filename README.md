@@ -18,7 +18,7 @@ Step 2: Go to jupyter lab and clone the repo (https://github.com/TommyTseng1129/
 
 Step 3: Execute "Running_Model_Tommy"(需要改名)
 
-Step 4: Play around with the ipywidgets!!
+Step 4: Play around with the final outputs using ipywidgets!!
 
 ### Flow Diagram 
 
