@@ -1,4 +1,4 @@
-# BeiJing Housing Price Prediction Using Sagemaker
+# Prediction for Housing Prices of Beijing by Using AutoML Pipeline
 
 ### Introduction
 
