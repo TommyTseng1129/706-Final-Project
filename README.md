@@ -1,6 +1,6 @@
 # Prediction for Housing Prices of Beijing by Using AutoML Pipeline
 
-### Introduction
+### 1. Introduction
 
 Welcome to the Beijing housing prices prediction project built by Charlie Xie and Tommy Tseng! In the interest of intergating what we have learned in this semester (2020 Fall), we decided to make use of AWS sagemaker to run a machine learning prediction analysis on a web-scrapped data. Major skillsets applied in this project were AWS sagemaker, AWS S3 Bucket, Pandas, and ipywidgets. 
 
@@ -10,17 +10,26 @@ To obtain the raw data for price prediction, the beautfiulsoup package was used 
 ![](beijing.jpg)
 
 
-### Setup instruction
+### 2. Setup instruction
 
 Step 1: Set up a notebook instance on AWS sagemaker
 
 Step 2: Go to jupyter lab and clone the repo (https://github.com/TommyTseng1129/706-Final-Project.git)
 
-Step 3: Execute "Running_Model_Final"
+Step 3: Setup a S3 bucket manually, and name it yourself.
 
-Step 4: Play around with the final outputs using ipywidgets!!
+Step 4: Execute codes in "AutoML.ipynb"
 
-### Flow Diagram 
+Step 5: Play around with the final outputs using ipywidgets!!
+
+
+### 3. Flow Diagram 
 
 ![](Flow_Chart_Diagram.jpg)
+
+
+
+### 4. Video Link
+https://youtu.be/I0dVUMMU23g
+
 
