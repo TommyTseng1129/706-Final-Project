@@ -20,7 +20,9 @@ Step 3: Setup a S3 bucket manually, and name it yourself.
 
 Step 4: Execute codes in "AutoML.ipynb"
 
-Step 5: Play around with the final outputs using ipywidgets!!
+Step 5: Play around with the final outputs using ipywidgets.
+
+Step 6: Demostrate the web service for housing prices prediction by using AWS Elastic Beanstalk(See the demo page).
 
 
 ### 3. Flow Diagram 
