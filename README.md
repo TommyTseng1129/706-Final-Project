@@ -22,7 +22,7 @@ Step 4: Execute codes in "AutoML.ipynb"
 
 Step 5: Play around with the final outputs using ipywidgets.
 
-Step 6: Demostrate the web service for housing prices prediction by using AWS Elastic Beanstalk ![Link](https://github.com/TommyTseng1129/706-Final-Project/blob/main/Elastic_Beanstalk_Demo.png).
+Step 6: Demostrate the web service for housing prices prediction by using AWS Elastic Beanstalk (https://github.com/TommyTseng1129/706-Final-Project/blob/main/Elastic_Beanstalk_Demo.png)
 
 
 ### 3. Flow Diagram 
